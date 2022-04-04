@@ -9,10 +9,10 @@ path](https://asymptote.sourceforge.io/doc/Search-paths.html). The library can
 be imported with a simple `import Lineage` statement.
 
 ## TODO
-- [] Write documentation
-- [] Write tutorial
-- [] Make vertices height customizable
-- [] ...
+- [ ] Write documentation
+- [ ] Write tutorial
+- [ ] Make vertices height customizable
+- [ ] ...
 
 ## Acknowledgements
 - [Asymptote](https://asymptote.sourceforge.io/): The Vector Graphics Language.
