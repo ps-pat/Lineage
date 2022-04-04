@@ -11,7 +11,7 @@ be imported with a simple `import Lineage` statement.
 ## TODO
 - [ ] Write documentation
 - [ ] Write tutorial
-- [ ] Make vertices height customizable
+- [ ] Make vertices latitude customizable
 - [ ] ...
 
 ## Acknowledgements
