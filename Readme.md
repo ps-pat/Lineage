@@ -1,7 +1,7 @@
 # Lineage
 *Ancestral recombination graph in Asymptote made easy*
 
-Usable, but still a work in progress.
+**<p align="center">:construction: Usable, but still a work in progress :construction:</p>**
 
 ## Installation
 Simply add `Lineage.asy` to your favorite [Asymptote search
