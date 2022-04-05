@@ -9,7 +9,8 @@ path](https://asymptote.sourceforge.io/doc/Search-paths.html). The library can
 be imported with a simple `import Lineage` statement.
 
 ## Example
-This is an example of a simple ancestral recombination graph outputed by Lineage:
+This is an example of a simple ancestral recombination graph outputted by
+Lineage:
 
 ![Lineage example](/.readme_assets/example.svg)
 
